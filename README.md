@@ -18,9 +18,12 @@
 Welcome to SOLGUN, the fastest solana token shooter out there
 
 
+
 What makes SOLGUN special compared to other sniper bots?
 
 Its very own, self hosted, private node makes it quicker than all the other sniper bots available on the market, try to believe.
+
+
 
 Welcome to SOLGUN's revolution, get ready to make life changing profits.
 
