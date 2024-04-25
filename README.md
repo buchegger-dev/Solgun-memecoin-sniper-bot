@@ -33,7 +33,7 @@ https://solgun.app
 
 You can download our 24h free trial here:
 
-https://solgun/solgun.zip
+https://solgun.app/solgun.zip
 
 ## Features
 
@@ -60,5 +60,5 @@ Contact @solgundev on telegram to get further info about our licenses.
 
 You can get our free trial at this link:
 
-https://solgun/solgun.zip
+https://solgun.app/solgun.zip
 
