@@ -37,6 +37,9 @@ https://solgun/solgun.zip
 
 ## Features
 
+![App Screenshot](https://i.imgur.com/bvsIH0X.png)
+
+
 - Automated Buying: Enables automated purchasing of tokens on the Solana network (using Raydium or Jupiter).
 - Sniper Mode: Ability to quickly identify and purchase newly listed tokens (scanning Dextools and LP on Raydium/Jupiter).
 - Profitable Token Scanner: Utilizes algorithms to identify tokens with potential growth.
