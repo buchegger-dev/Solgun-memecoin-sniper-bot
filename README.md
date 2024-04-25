@@ -1,4 +1,13 @@
 
+<p align="center">
+<img src=https://img.shields.io/github/stars/MarshmeLaks-offical/Solgun?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/MarshmeLaks-offical/Solgun/?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/issues/MarshmeLaks-offical/Solgun/?style=for-the-badge&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/issues-pr/MarshmeLaks-offical/Solgun/?style=for-the-badge&logo=appveyor&color=informational />
+</p>
+
+
+
 # SOLGUN - SOLANA'S FASTEST SNIPER BOT
 
 
